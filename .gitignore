@@ -1,0 +1,6 @@
+venv/
+.idea/
+__pycache__/
+
+pdf_to_gif/
+other_fonts/
