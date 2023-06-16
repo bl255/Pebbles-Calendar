@@ -27,7 +27,5 @@ The calendar with Slovak month names and Czech holidays in bold font printed on 
 
 <img src=doc_images/my_calendar.jpg width="400">
 
-## Acknowledgments
-This project utilizes the [Google font Lato](https://fonts.google.com/specimen/Lato).
-
-
+## Attribution
+This project utilizes [Łukasz Dziedzic's font Lato](https://www.latofonts.com/) under Open Font License.
